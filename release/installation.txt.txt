@@ -1,0 +1,1 @@
+You must extract zip file to folder in local web browser or in your web server.
